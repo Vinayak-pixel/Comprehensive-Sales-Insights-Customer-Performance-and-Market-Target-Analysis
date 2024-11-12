@@ -29,4 +29,4 @@ Aiding in effective discount structuring for customers, supporting negotiation p
 3. **Optimizing report generation** through meticulous fine-tuning, ensuring efficiency and accuracy.
 4. **Developing a systematic approach** to creating structured, reliable report-building plans.
 
-You can find the [detailed project reports here](https://drive.google.com/file/d/1B1fBqfKq2WVZk89nD4TQr-eFf9zLFB-y/view?usp=drive_link) 📊📈📂.
+You can find the [detailed project reports here](https://github.com/Vinayak-pixel/Comprehensive-Sales-Insights-Customer-Performance-and-Market-Target-Analysis/tree/main/Report) 📊📈📂.
