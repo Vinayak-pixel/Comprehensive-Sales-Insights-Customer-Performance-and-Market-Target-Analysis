@@ -24,7 +24,7 @@ Aiding in effective discount structuring for customers, supporting negotiation p
 5. **Proficient use of DAX** for creating calculated columns and advanced data transformations.
 
 ### Soft Skills
-1. **Comprehensive understanding of Sales & Finance Reports** to support informed decision-making.
+1. **Comprehensive understanding of Sales Reports** to support informed decision-making.
 2. **Designing user-centric reports** with empathy to address user needs effectively.
 3. **Optimizing report generation** through meticulous fine-tuning, ensuring efficiency and accuracy.
 4. **Developing a systematic approach** to creating structured, reliable report-building plans.
